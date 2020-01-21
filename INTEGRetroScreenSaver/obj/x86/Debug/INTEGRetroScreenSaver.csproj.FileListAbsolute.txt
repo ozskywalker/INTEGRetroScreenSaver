@@ -1,0 +1,50 @@
+D:\_code\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\_code\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\INTEGRetroScreenSaver.Properties.Resources.resources
+D:\_code\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\_code\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\_code\INTEGRetroScreenSaver\INTEGRetroScreenSaver\bin\Debug\INTEGRetroScreenSaver.exe
+D:\_code\INTEGRetroScreenSaver\INTEGRetroScreenSaver\bin\Debug\INTEGRetroScreenSaver.pdb
+D:\_code\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\INTEGRetroScreenSaver.exe
+D:\_code\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\INTEGRetroScreenSaver.pdb
+D:\_code\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\INTEGRetroScreenSaver.Letter.resources
+C:\Users\kaneda\Documents\My Dropbox\_code\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\INTEGRetroScreenSaver.exe
+C:\Users\kaneda\Documents\My Dropbox\_code\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\INTEGRetroScreenSaver.pdb
+C:\Users\kaneda\Documents\My Dropbox\_code\INTEGRetroScreenSaver\INTEGRetroScreenSaver\bin\Debug\INTEGRetroScreenSaver.exe
+C:\Users\kaneda\Documents\My Dropbox\_code\INTEGRetroScreenSaver\INTEGRetroScreenSaver\bin\Debug\INTEGRetroScreenSaver.pdb
+C:\Users\kaneda\Documents\My Dropbox\_code\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kaneda\Documents\My Dropbox\_code\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\INTEGRetroScreenSaver.Properties.Resources.resources
+C:\Users\kaneda\Documents\My Dropbox\_code\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\INTEGRetroScreenSaver.ScreenSaverForm.resources
+C:\Users\kaneda\Documents\My Dropbox\_code\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\kaneda\Documents\My Dropbox\_code\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\kaneda\Documents\My Dropbox\_code\INTEGRetroScreenSaver\INTEGRetroScreenSaver\bin\Debug\INTEGRetroScreenSaver.exe.config
+C:\Users\k\Dropbox\_CODE\_finished\INTEGRetroScreenSaver\INTEGRetroScreenSaver\bin\Debug\INTEGRetroScreenSaver.exe.config
+C:\Users\k\Dropbox\_CODE\_finished\INTEGRetroScreenSaver\INTEGRetroScreenSaver\bin\Debug\INTEGRetroScreenSaver.exe
+C:\Users\k\Dropbox\_CODE\_finished\INTEGRetroScreenSaver\INTEGRetroScreenSaver\bin\Debug\INTEGRetroScreenSaver.pdb
+C:\Users\k\Dropbox\_CODE\_finished\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\k\Dropbox\_CODE\_finished\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\INTEGRetroScreenSaver.Properties.Resources.resources
+C:\Users\k\Dropbox\_CODE\_finished\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\INTEGRetroScreenSaver.ScreenSaverForm.resources
+C:\Users\k\Dropbox\_CODE\_finished\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\k\Dropbox\_CODE\_finished\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\k\Dropbox\_CODE\_finished\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\INTEGRetroScreenSaver.exe
+C:\Users\k\Dropbox\_CODE\_finished\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\INTEGRetroScreenSaver.pdb
+C:\Users\k\Dropbox\_CODE\_finished\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\INTEGRetroScreenSaver.Configure.resources
+C:\Users\k\Dropbox\_CODE\INTEGRetroScreenSaver\INTEGRetroScreenSaver\bin\Debug\INTEGRetroScreenSaver.exe.config
+C:\Users\k\Dropbox\_CODE\INTEGRetroScreenSaver\INTEGRetroScreenSaver\bin\Debug\INTEGRetroScreenSaver.exe
+C:\Users\k\Dropbox\_CODE\INTEGRetroScreenSaver\INTEGRetroScreenSaver\bin\Debug\INTEGRetroScreenSaver.pdb
+C:\Users\k\Dropbox\_CODE\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\k\Dropbox\_CODE\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\INTEGRetroScreenSaver.Configure.resources
+C:\Users\k\Dropbox\_CODE\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\INTEGRetroScreenSaver.Properties.Resources.resources
+C:\Users\k\Dropbox\_CODE\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\INTEGRetroScreenSaver.ScreenSaverForm.resources
+C:\Users\k\Dropbox\_CODE\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\k\Dropbox\_CODE\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\k\Dropbox\_CODE\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\INTEGRetroScreenSaver.exe
+C:\Users\k\Dropbox\_CODE\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\INTEGRetroScreenSaver.pdb
+C:\Dropbox\_CODE\INTEGRetroScreenSaver\INTEGRetroScreenSaver\bin\Debug\INTEGRetroScreenSaver.exe.config
+C:\Dropbox\_CODE\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\INTEGRetroScreenSaver.exe
+C:\Dropbox\_CODE\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\INTEGRetroScreenSaver.pdb
+C:\Dropbox\_CODE\INTEGRetroScreenSaver\INTEGRetroScreenSaver\bin\Debug\INTEGRetroScreenSaver.exe
+C:\Dropbox\_CODE\INTEGRetroScreenSaver\INTEGRetroScreenSaver\bin\Debug\INTEGRetroScreenSaver.pdb
+C:\Dropbox\_CODE\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\INTEGRetroScreenSaver.Configure.resources
+C:\Dropbox\_CODE\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\INTEGRetroScreenSaver.Properties.Resources.resources
+C:\Dropbox\_CODE\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\INTEGRetroScreenSaver.ScreenSaverForm.resources
+C:\Dropbox\_CODE\INTEGRetroScreenSaver\INTEGRetroScreenSaver\obj\x86\Debug\INTEGRetroScreenSaver.csproj.GenerateResource.Cache
